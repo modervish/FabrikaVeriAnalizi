@@ -1,0 +1,9 @@
+C:\Users\MO\source\repos\HELLO\Fabrika\bin\Debug\Fabrika.exe.config
+C:\Users\MO\source\repos\HELLO\Fabrika\bin\Debug\Fabrika.exe
+C:\Users\MO\source\repos\HELLO\Fabrika\bin\Debug\Fabrika.pdb
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.csproj.AssemblyReference.cache
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.Form1.resources
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.csproj.GenerateResource.cache
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.csproj.CoreCompileInputs.cache
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.exe
+C:\Users\MO\source\repos\HELLO\Fabrika\obj\Debug\Fabrika.pdb
